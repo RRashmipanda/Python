@@ -1,22 +1,22 @@
 # Store monthly expenses in a list and find out total expenses for all months
 
-# exp = [1200, 1500, 1300, 1600, 1400, 1700, 1800, 1900, 2000, 2100, 2200, 2300]
+exp = [1200, 1500, 1300, 1600, 1400, 1700, 1800, 1900, 2000, 2100, 2200, 2300]
 
-# total = 0
-# for item in exp:
-#     total = total+item
-# print("Total expenses for the year: $", total)   
+total = 0
+for item in exp:
+    total = total+item
+print("Total expenses for the year: $", total)   
 
-# for i in range(len(exp)):
-#     print("Month : ", (i+1), "Expense: ", exp[i])
-#     total = total + exp[i]
-# print("Total expenses for the year: $", total)
+for i in range(len(exp)):
+    print("Month : ", (i+1), "Expense: ", exp[i])
+    total = total + exp[i]
+print("Total expenses for the year: $", total)
 
 
-# print number 1 to 100 By  range function
-# for i in range(1,101):
-#     print(i)
-#     print(i*i)
+print number 1 to 100 By  range function
+for i in range(1,101):
+    print(i)
+    print(i*i)
 
 
 # break statements
