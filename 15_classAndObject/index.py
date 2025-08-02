@@ -1,6 +1,6 @@
 # class in Python is a blueprint for creating objects
 # an object is an instance of a class
-# let human is a class - Name,gender,occupation are properties of the class and  speaks,do works,sleep are methods of the class
+# let human is a class - Name,gender,occupation are properties of the class   and  speaks,do works,sleep are methods of the class
 
 
 class Human:
