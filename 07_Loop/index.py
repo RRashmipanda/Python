@@ -13,7 +13,7 @@ for i in range(len(exp)):
 print("Total expenses for the year: $", total)
 
 
-print number 1 to 100 By  range function
+# print number 1 to 100 By  range function
 for i in range(1,101):
     print(i)
     print(i*i)
