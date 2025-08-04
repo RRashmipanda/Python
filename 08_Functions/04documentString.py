@@ -3,7 +3,7 @@
 
 """ this function is used to sum two numbers
     it takes two arguments a and b and returns their sum"""
-    
+total = 0
 def sum(a,b):
     total = a+b
     print("total in inside function",total)
