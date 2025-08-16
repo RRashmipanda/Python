@@ -3,6 +3,7 @@
 
 x = input("Enter a number 1: ")
 y=input("Enter a number 2: ")
+
 try:
     z=x / int(y)  
 # except Exception as e:
